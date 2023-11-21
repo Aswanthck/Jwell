@@ -4,8 +4,10 @@
   "description": "Test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node server.js" // Replace "server.js" with your entry point file
+  }
+  
+  ,
   "keywords": [],
   "author": "",
   "license": "ISC"
