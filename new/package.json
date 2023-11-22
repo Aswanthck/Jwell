@@ -2,11 +2,10 @@
   "name": "new",
   "version": "1.0.0",
   "description": "Test",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "start": "node server.js" // Replace "server.js" with your entry point file
-  }
-  
+    "start": "http-server -p 8081" 
+  }  
   ,
   "keywords": [],
   "author": "",
