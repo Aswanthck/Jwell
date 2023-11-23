@@ -1,0 +1,13 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8081" 
+  }  
+  ,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
